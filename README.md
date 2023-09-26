@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Welcome to my Github Profile.<br>I am Ishaaq, a student who is persuading for the PGD in IT by the BCS,<br>The Chartered Institute for IT.<br>I am on a mission on building #PermissionlessMoney for mankind.<br>I use #Rust, #Golang #JavaScript #Solidity as My Programming Languages.<br>A die-hard fan of #BlockchainSingularity and #WorldComputer
+Hi! Welcome to my Github Profile.<br>I am Ishaaq, a Blockchain Engineer, Independent #ICP Educator and Angel Investor. Currently pursuing the Professional Graduate Diploma in IT by the BCS,<br>The Chartered Institute for IT.<br>I am on a mission to build #PermissionlessMoney for mankind.<br>I specialize in #Rust, #Golang #JavaScript #Solidity and #DistributedSystems.<br>A die-hard fan of #BlockchainSingularity and #WorldComputer
 
 
 ## 🌐 Socials:
