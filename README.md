@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Welcome to my Github Profile.<br>I am Ishaaq, a Blockchain Engineer, Independent Crypto Educator, and Angel Investor.<br>Alumni of Professional Graduate Diploma in IT by the BCS, The Chartered Institute for IT.<br>I am on a mission to Reignite the Internet via #Web3.<br>Specialized in #Rust, #Golang #ReactJS #Solidity, and #DistributedSystems.<br>A die-hard fan of #Web3 #Decentralization and #WorldComputer<br>Discord: ishaaq0001
+Hi! Welcome to my Github Profile.<br>I am Ishaaq, a Blockchain Engineer, an Independent Crypto Educator, and an Angel Investor.<br> Proud Alumni of The [BCS, The Chartered Institute for IT](https://www.bcs.org/) with a Professional Graduate Diploma in IT, which is equivalent to a 3-year Honors in IT, recognized by [Ofqual](https://www.gov.uk/government/organisations/ofqual).<br>I am on a mission to Reignite the Internet via true #Web3.<br>Specialized in #Rust, #Golang #ReactJS #Solidity, and #DistributedSystems.<br>A die-hard fan of #Web3 #Decentralization and #WorldComputer<br>Discord: ishaaq0001
 
 
 ## 🌐 Socials:
