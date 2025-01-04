@@ -3,9 +3,6 @@
 ###
 
 <p align="left">I am Ishaaq, a Blockchain Engineer, an Independent Crypto Educator, and an Angel Investor.
-<br> Currently learning **Distributed Systems** at [London Metropolitan University](https://www.londonmet.ac.uk/)🌃<br>
-Current: **Technical Content Developer ** at [DFINITY](https://dfinity.org) <br>
-Alumni: [Binance](https://binance.com) , [Crypto.com](https://www.crypto.com)
 <br>Proud Alumni of The BCS, The Chartered Institute for IT with a BSc in Information Technology, equivalent to a 3-year Honors in IT in the UK and Ireland, recognized by Ofqual.
 <br>I am on a mission to Reignite the Internet via true #Web3.<br>Specialized in #Rust, #Golang #ReactJS #Solidity, and #DistributedSystems.<br>A die-hard fan of #Web3 #Decentralization and #WorldComputer<br>Discord: ishaaq0001</p>
 
