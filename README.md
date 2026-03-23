@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">I am Ishaaq, a Blockchain Engineer, an Independent Crypto Educator, and an Angel Investor.
+<p align="left">I am Ishaaq, a Blockchain Devrel Engineer, an Independent Crypto Educator, and an Angel Investor.
 
 Graduated with Honors from the [British Computer Society](https://bcs.org) with a Professional Graduate Diploma in IT, and with Honors from [London Metropolitan University](https://londonmet.ac.uk) with a BEng in Computer Network & Cloud Security.
 
 
 I am on a mission to Reignite the Internet via true #Web3.
 
-<p align="left">✨ Creating bugs since 2021<br>📚 Devrel engineer <br>🎯 Goals: Pioneering the Decentralized Economy<br>🌍 Interests: Web3, Blockchain Technology, Cryptography, Distributed Systems<br>🎲 Fun fact: I love pizza 🍕</p>
+<p align="left">✨ Creating bugs since 2021<br>🎯 Goals: Pioneering the Decentralized Economy<br>🌍 Interests: Web3, Blockchain Technology, Cryptography, Distributed Systems<br>🎲 Fun fact: I love pizza 🍕</p>
 
 ###
 
