@@ -3,10 +3,11 @@
 ###
 
 <p align="left">I am Ishaaq, a Blockchain Engineer, an Independent Crypto Educator, and an Angel Investor.
-<br>Proud Alumni of The BCS, The Chartered Institute for IT with a BSc in Information Technology, equivalent to a 3-year Honors in IT in the UK and Ireland, recognized by Ofqual.
-<br>I am on a mission to Reignite the Internet via true #Web3.<br>Specialized in #Rust, #Golang #ReactJS #Solidity, and #DistributedSystems.<br>A die-hard fan of #Web3 #Decentralization and #WorldComputer<br>Discord: ishaaq0001</p>
+Graduated with Honors from the [British Computer Society](https://bcs.org) with a Professional Graduate Diploma in IT, and with Honors from [London Metropolitan University](https://londonmet.ac.uk) with a BEng in Computer Network & Cloud Security.
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Move<br>🎯 Goals: Pioneering the Decentralized Economy<br>🌍 Interests: Web3, Blockchain Technology, Cryptography, Distributed Systems<br>🎲 Fun fact: I love pizza 🍕</p>
+<br>I am on a mission to Reignite the Internet via true #Web3.
+
+<p align="left">✨ Creating bugs since 2021<br>📚 Devrel engineer <br>🎯 Goals: Pioneering the Decentralized Economy<br>🌍 Interests: Web3, Blockchain Technology, Cryptography, Distributed Systems<br>🎲 Fun fact: I love pizza 🍕</p>
 
 ###
 
