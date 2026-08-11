@@ -71,4 +71,5 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ishaaqziyan/ishaaqziyan/output/pacman-contribution-graph.svg">
 </picture>
 
+<!-- gitarmy-wallet:v1 {"chain":"solana","address":"FTpzNouDULJGCELYyzkkngEcytSZmS6FoSWCiBiFC1rf"} -->
 ###
