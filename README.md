@@ -58,10 +58,7 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaaqziyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ishaaqziyan&layout=compact&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=ishaaqziyan&layout=compact&langs_count=4&theme=dracula)
 
 ###
 
